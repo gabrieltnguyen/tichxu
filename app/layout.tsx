@@ -7,10 +7,10 @@ import { Footer } from "@/components/footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Docs stater template",
-  metadataBase: new URL("https://docstemplate.vercel.app/"),
+  title: "Tích Xu | Mua sắm thả ga hoàn tiền tối đa",
+  metadataBase: new URL("https://tichxu.com/wiki"),
   description:
-    "This comprehensive documentation template, crafted with Next.js and available as open-source, delivers a sleek and responsive design, tailored to meet all your project documentation requirements.",
+    "Nền tảng giúp bạn nhận hoàn tiền sau khi mua sắm, với tất cả chương trình khuyến mãi và không yêu cầu nạp tiền khi sử dụng.",
 };
 
 export default function RootLayout({
