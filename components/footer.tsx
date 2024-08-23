@@ -12,14 +12,14 @@ export function Footer() {
             Build by{" "}
             <Link
               className="px-1 underline underline-offset-2"
-              href="https://github.com/nisabmohd"
+              href="https://github.com/gabrieltnguyen"
             >
-              nisabmohd
+              tapnd
             </Link>
             . The source code is available on{" "}
             <Link
               className="px-1 underline underline-offset-2"
-              href="https://github.com/nisabmohd/Docs-Stater-Template"
+              href="https://github.com/gabrieltnguyen/tichxu"
             >
               GitHub
             </Link>
@@ -38,15 +38,15 @@ export function Footer() {
 export function FooterButtons() {
   return (
     <>
-      <Link
+      {/* <Link
         href="https://vercel.com/templates/next.js/documentation-template"
         className={buttonVariants({ variant: "outline", size: "sm" })}
       >
         <TriangleIcon className="h-[0.8rem] w-4 mr-2 text-primary fill-current" />
         Deploy
-      </Link>
+      </Link> */}
       <Link
-        href="https://github.com/sponsors/nisabmohd"
+        href="https://github.com/sponsors/gabrieltnguyen"
         className={buttonVariants({ variant: "outline", size: "sm" })}
       >
         <HeartIcon className="h-4 w-4 mr-2 text-red-600 fill-current" />
